@@ -8,8 +8,17 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("EasyList"),
+          title: Text("My first app trial"),
         ),
+        body: Card(
+            child: Column(
+          children: <Widget>[
+            Image.network(
+              'https://picsum.photos/250?image=9',
+            ),
+            Text("This my first app that I have draw thank you every body!"),
+          ],
+        )),
       ),
     );
   }
