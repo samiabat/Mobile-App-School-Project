@@ -11,10 +11,9 @@ Our project is a Mobile Application
 ## User Types
 
 <pre>
-In this project we have three types of users
-	1. Clients
-	2. Instructors
-	3. Admins
+	1. 
+	2. 
+	3. 
 </pre>
 
 
