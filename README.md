@@ -39,7 +39,7 @@ In this project we have three types of users
 
 <pre>
 	1. Flutter - Dart
-  2. Django as back-end
+  	2. Django as back-end
 	3. HTML, CSS, and Javascript
 	4. MySQL database as a backend
   
