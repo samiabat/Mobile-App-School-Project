@@ -1,4 +1,4 @@
-							 <pre># Mobile-App-School-Project</pre>
+# Mobile-App-School-Project
 <pre>
 Our project is a Mobile Application
 	1,
