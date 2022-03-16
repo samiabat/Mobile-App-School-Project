@@ -1,10 +1,10 @@
 # Mobile-App-School-Project
 <pre>
 Our project is a Mobile Application
-  1,
-  2,
-  3,
-  4,
+	1,
+	2,
+	3,
+	4,
 </pre>
 
 
@@ -20,17 +20,17 @@ Our project is a Mobile Application
 ## Business features
 
 <pre>
-    1,
-    2,
+	1,
+	2,
 </pre>
       
 ## Group Members
 
 <pre>
-           Name                      ID                 Section
-      1. Samuel Abatneh          UGR/7229/12              1
-      2. Sefineh Tesfa           UGR/2844/12              1
-      3. Yeabsira Tekuamwork     UGR/9192/12              2
+	   Name                      ID                 Section
+	1. Samuel Abatneh          UGR/7229/12              1
+	2. Sefineh Tesfa           UGR/2844/12              1
+	3. Yeabsira Tekuamwork     UGR/9192/12              2
 
 </pre>
  
@@ -38,7 +38,7 @@ Our project is a Mobile Application
 
 <pre>
 	1. Flutter - Dart
-  	2. Django as back-end
+	2. Django as back-end
 	3. HTML, CSS, and Javascript
 	4. MySQL database as a backend
   
