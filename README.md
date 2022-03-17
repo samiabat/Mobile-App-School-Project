@@ -1,3 +1,8 @@
+## Title Of The Project
+<pre>
+	Job vacancy
+</pre>
+
 ## Group Members
 
 <pre>
@@ -11,12 +16,8 @@
 
 </pre>
 
-## Title
-<pre>
-	Job vacancy
-</pre>
 
-## About the application
+## About The App
 <pre>
 Our project is a job vacancy Mobile App with flutter that allow
 	1, The company to post the job
