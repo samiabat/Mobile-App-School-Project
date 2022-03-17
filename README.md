@@ -41,7 +41,7 @@ Our project is a job vacancy Mobile App with flutter that allow
 	1, Allow the company to post the job. CRUD operation: create job ["POST"], read jobs ["GET"], 
 	   update job ["PUT"] and delete job ["DELETE"]
 	3, Allow the jobseekers to follow the company so that they get the job posted by that company. 
-	   CRUD operation: <br> follow the company ["POST"],  get notifcation ["GET"],  unfolllow the company ["DELETE"]
+	   CRUD operation: follow the company ["POST"],  get notifcation ["GET"],  unfolllow the company ["DELETE"]
 </pre>
       
 
