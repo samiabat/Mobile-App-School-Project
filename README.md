@@ -68,16 +68,3 @@ Our project is a job vacancy Mobile App with flutter that allow
 	
 </pre>
 
-
-## Remark
-
-
-<pre>
-Since Admins cannot signup for the system,
-
-	1. Username - admin
-	2. Password - admin
-	
-So you can use this user to explore about the admin
-
-</pre>
