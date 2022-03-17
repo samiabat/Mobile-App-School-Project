@@ -78,8 +78,14 @@ Our project is a job vacancy Mobile App with flutter that allow
 </pre>
 
 ## Authentication/Authorization Feature
+Our app will have sign up, login and logout use case so that unauthenticated user can join or to leave. The app also has autherization so that specific
+user will have a specific privillage. 
+	- Different userstory and the Authentication and Autherization explained hereunder.
+
+
 	|-------------------------------+----------------------------------------------|---------------------------------|
-	| Userstory                     | <b>Authentication</b>	                       | <i>Autherization</i>		         |
+	| Userstory                     | Authentication                               | Autherization		         |
+	|                               |                                              |                                 |
 	|-------------------------------+----------------------------------------------+---------------------------------|
 	| Delete Company                | Authenticated                                | Admin only		         |
 	|-------------------------------+----------------------------------------------+---------------------------------|
@@ -91,6 +97,8 @@ Our project is a job vacancy Mobile App with flutter that allow
 	|-------------------------------+----------------------------------------------+---------------------------------|
 	| Delete Job                    | Authenticated                                | The Company that post the job   |
 	|                               |                                              | or Admin                        |
+	|-------------------------------+----------------------------------------------+---------------------------------|
+	| View Jobs                     | Anybody                                      | Anybody                         |
 	|-------------------------------+----------------------------------------------+---------------------------------|
 	| Follow the company            | Authenticated                                | Jobseeker only                  |
 	|-------------------------------+----------------------------------------------+---------------------------------|
