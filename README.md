@@ -78,9 +78,10 @@ Our project is a job vacancy Mobile App with flutter that allow
 </pre>
 
 ## Authentication/Authorization Feature
+<pre>
 Our app will have sign up, login and logout use case so that unauthenticated user can join or to leave. The app also has autherization so that specific
 user will have a specific privillage. <hr>
-	- Different userstory and the Authentication and Autherization explained hereunder.
+	- Different userstory and the Authentication and Autherization explained hereunder.</pre>
 
 
 	|-------------------------------+----------------------------------------------|---------------------------------|
